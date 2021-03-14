@@ -1,14 +1,18 @@
-# Server side rendering
-[Source](https://github.com/vladpereskokov/frontend-boilerplates/tree/master/ssr)
+# Примеры Server Side Rendering
 
-## Install
+* [Simple react](/react)
+* [React redux](/react-redux)
+* [React router](/react-router)
+* [React cssinjs](/react-cssinjs)
+* [React infosec](/react-infosec)
+* [React mobile](/react-mobile)
+* [React i18n](/react-i18n)
+* [React https](/react-https)
+* [React 404](/react-404)
+* [React seo](/react-seo)
+* [React proxy](/react-proxy)
+* [React antd](/react-antd)
+* [React envs](/react-envs)
 
-- `npm run init`
-
-```bash
-~$ npm run dev
-```
-
-## Build
-
-- `npm run build:production`
+#### Meta
+Примеры подготовлены для соотвествующего спринта курса [Мидл фронтенд-разработчик](https://praktikum.yandex.ru/middle-frontend/).
