@@ -2,7 +2,7 @@
 
 * [Simple react](/react)
 * [React redux](/react-redux)
-* [React router](/react-router)
+* [React redux-router](/react-redux-router)
 * [React cssinjs](/react-cssinjs)
 * [React infosec](/react-infosec)
 * [React mobile](/react-mobile)

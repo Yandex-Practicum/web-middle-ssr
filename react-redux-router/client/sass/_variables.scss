@@ -1,0 +1,54 @@
+$grey: #bcbcbc;
+
+$border-radius: 16px;
+
+$white: #fff;
+$black: #000;
+
+$green: #5ac31a;
+$red: #fb0607;
+$yellow: #fc0;
+$blue: #0071bd;
+
+$primary: $yellow;
+$primaryLite: #ffcc0030;
+$secondary: #282828;
+$light: #9e9b98;
+$lighter: #f5f4f2;
+$lightest: #e2e2e2;
+$success: $green;
+$danger: $red;
+$action: #fcb900;
+$lightGrey: #e0deda;
+
+$theme-colors: (
+    'primary': $primary,
+    'secondary': $secondary,
+    'light': $light,
+    'lighter': $lighter,
+    'lightest': $lightest,
+    'success': $success,
+    'danger': $danger,
+);
+
+$body-bg: $white;
+$body-color: $secondary;
+$background: $white;
+$contentBackground: $white;
+
+$text-muted: $light;
+
+$font-size-base: 1rem;
+$font-family-base: sans-serif;
+
+$font-weight-lighter: lighter;
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+$font-weight-bolder: bolder;
+
+$font-weight-base: $font-weight-normal;
+$line-height-base: 1.5;
+
+$header-height: 68px;
+$unit: 12px;
