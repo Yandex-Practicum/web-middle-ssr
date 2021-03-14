@@ -1,0 +1,17 @@
+{
+  "extends": "stylelint-config-sass-guidelines",
+  "rules": {
+    "indentation": 4,
+    "max-nesting-depth": 5,
+    "selector-max-id": 3,
+    "selector-class-pattern": "[A-z]+",
+    "order/properties-alphabetical-order": null,
+    "declaration-property-value-blacklist": null,
+    "color-named": null,
+
+    "scss/selector-no-redundant-nesting-selector": null,
+    "scss/dollar-variable-pattern": null,
+    "scss/at-mixin-pattern": null,
+    "scss/percent-placeholder-pattern": null
+  }
+}

@@ -1,0 +1,1 @@
+# Simple react ssr example
