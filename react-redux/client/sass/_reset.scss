@@ -1,0 +1,11 @@
+html,
+body {
+    margin: 0;
+    font-family: $font-family-base;
+    background-color: $contentBackground;
+}
+
+a {
+    color: $black;
+    text-decoration: none;
+}
