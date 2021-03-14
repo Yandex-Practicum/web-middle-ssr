@@ -16,7 +16,6 @@ import {ENVS, GLOBAL_ARGS} from '../assets/env';
 
 const {__DEV__, __PROD__} = ENVS;
 
-// TODO: Временно
 const vendorsManifest = require(
     join(DIST_DIR, 'webpack', 'vendors-manifest.json').replace('dist/dist', 'dist'),
 );

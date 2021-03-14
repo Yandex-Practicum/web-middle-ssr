@@ -14,5 +14,4 @@
 * [React antd](/react-antd)
 * [React envs](/react-envs)
 
-#### Meta
 Примеры подготовлены для соотвествующего спринта курса [Мидл фронтенд-разработчик](https://praktikum.yandex.ru/middle-frontend/).
