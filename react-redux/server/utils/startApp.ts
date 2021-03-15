@@ -15,7 +15,7 @@ export function startApp({server}: Options) {
     Loadable.preloadAll().then(() => {
         server.listen(PORT, () => {
             // eslint-disable-next-line
-            console.log(`App on http://${APP_HOSTS}:${PORT}`);
+            console.log(`App on http://${APP_HOSTS[0]}:${PORT}`);
         });
     });
 }
