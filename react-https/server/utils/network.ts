@@ -1,8 +1,6 @@
-import {Nullable} from 'utils';
-
 const {networkInterfaces} = require('os');
 
-export function findIP(): Nullable<string> {
+export function findIP(): string | null {
     const nets = networkInterfaces();
     let result = null;
 

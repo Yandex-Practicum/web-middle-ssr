@@ -1,9 +1,7 @@
-import {Empty} from 'utils';
-
 export function makeStartLogsText(
     hosts: string[],
     protocol = 'https',
-    port: Empty<number | string>,
+    port: number | string | undefined,
 ) {
     return `
 Running on:
