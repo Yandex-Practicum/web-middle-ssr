@@ -1,1 +1,1 @@
-export {default} from './ErrorBoundry';
+export {default} from './Meta';
